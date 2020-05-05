@@ -1,6 +1,6 @@
 ---
 title: Hello World
-cover: https://picsum.photos/640/481
+cover: https://picsum.photos/640/441
 ---
 There are multiple benefits of using Classless in your personal website or blog:
 
