@@ -111,5 +111,5 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/zoraqing/zoraqing.github.io.git
+  repository: git@github.com:zoraqing/zoraqing.github.io.git
   branch: master
