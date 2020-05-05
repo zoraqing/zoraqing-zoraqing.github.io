@@ -108,6 +108,7 @@ theme_config:
   show_excerpts: true
   read_more: 'Read more...'
 # Deployment
+# test
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
